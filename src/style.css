@@ -1,0 +1,36 @@
+body {
+  margin: 24px;
+  font-family: system-ui, sans-serif;
+  color: #17202a;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+button {
+  margin-bottom: 16px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#scroll-container {
+  outline: 1px solid #94a3b8;
+}
+
+.message {
+  box-sizing: border-box;
+  padding: 12px;
+  border-bottom: 1px solid #cbd5e1;
+  background: #eff6ff;
+}
+
+pre {
+  padding: 12px;
+  background: #f1f5f9;
+}
