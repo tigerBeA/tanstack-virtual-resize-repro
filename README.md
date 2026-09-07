@@ -1,6 +1,6 @@
 # TanStack Virtual: previous row resize breaks end anchoring
 
-[Open in StackBlitz](https://stackblitz.com/github/tigerBeA/tanstack-virtual-resize-repro)
+[Open in StackBlitz](https://stackblitz.com/github/tigerBeA/tanstack-virtual-resize-repro/tree/4ddae457fb773332b0c395938ac3c5eb74b1d117)
 
 A standalone reproduction for [TanStack/virtual#1265](https://github.com/TanStack/virtual/pull/1265), using the published `@tanstack/react-virtual@3.14.10` package (`@tanstack/virtual-core@3.17.8`). No application data, mocked observers, or SDK patches are needed.
 
